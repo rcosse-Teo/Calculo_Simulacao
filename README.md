@@ -15,8 +15,10 @@ Valores de entrada são inseridos e o modelo encontrará a quantidade de teor de
 Tudo isso baseado nas características dos módulos de elasticidade da matriz e da fibra. 
 Lembrando que todo esse esforço é feito para determinação de caracterização de compósitos poliméricos reforçados com fibras contínuas. 
 
-O cógigo é bem simplório, mas é um incentivo para que o autor migre do uso de software comerciais, cuja licença cusata alguns milhares de dólares e o uso no setor acadêmico seja inviável. 
+O cógigo é bem simplório, mas é um incentivo para que o autor migre do uso de software comerciais, cuja licença custa alguns milhares de dólares e o uso no setor acadêmico seja inviável. 
 
-No final, a comparção dos métodos da bissecção e Newton-Raphson serve para se saber qual converge mais rápido para o resultado e assim exige menor poder computacional. 
+No final, a comparação dos métodos da bissecção e Newton-Raphson serve para se saber qual converge mais rápido para o resultado e assim exige menor poder computacional. 
 Algo que é bastante almejado no mundo de previsão de propriedades mecânicas de compósitos reforçados com fibras curtas. 
 Uma vez que ainda hoje softwares comarciais têm dificuldade de trabalhar com resultados mais precisos quando o teor de carga de carga curta seja disponibilizado de forma randômica. 
+
+Os dois códigos aqui apresentados são os mesmos. Apenas aproveitei para testar as formas de transferência de informações do Collab para o GitHub.
